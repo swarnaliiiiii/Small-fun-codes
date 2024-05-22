@@ -1,1 +1,1 @@
-# Small-java-codes-
+fun codes that help in durin boredom
